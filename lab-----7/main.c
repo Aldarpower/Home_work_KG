@@ -355,15 +355,15 @@ int WINAPI WinMain(HINSTANCE hInstance,
             glPushMatrix();
             glTranslatef(0.0, 0.0, 0.0);
             float transparency = 0.1;
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 8; i++)
             {
                 glPushMatrix();
-                    glRotatef(36*i, 0, 0, 1);
+                    glRotatef(45*i, 0, 0, 1);
                     glTranslatef(4, 0, 0);
                     glColor4f(0,1,1,transparency);
                     drawPrism(27,2);
                 glPopMatrix();
-                transparency += 0.1;
+                transparency += 0.15;
             }
             glPopMatrix();
 
