@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1684254225 source:c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab_6\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684156842 c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab_6\camera.h
+
+1684156459 source:c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab_6\camera.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684156459 source:c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab-----7\camera.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684156842 c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab-----7\camera.h
+
+1684254603 source:c:\users\aldar\desktop\4 семестр\Компьютерная графика\lab-----7\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
